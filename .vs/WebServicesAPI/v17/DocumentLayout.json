@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\dal\\models\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\dal\\models\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\dal\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\dal\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\dal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\dto\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\dto\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\dto\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\dto\\adduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\dto\\adduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\dto\\phonenumberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\dto\\phonenumberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\dal\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\dal\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\migrations\\20240804081139_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\migrations\\20240804081139_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\migrations\\20240804081139_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\migrations\\20240804081139_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|c:\\users\\vandu\\source\\repos\\webservicesapi\\webservicesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC98FDB7-6779-4214-89FD-14225BCC7F04}|WebServicesAPI\\WebServicesAPI.csproj|solutionrelative:webservicesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Services\\UserServices.cs",
+              "RelativeToolTip": "WebServicesAPI\\Services\\UserServices.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:22:00.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\DAL\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Models\\Address.cs",
+              "RelativeToolTip": "WebServicesAPI\\DAL\\Models\\Address.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:58:22.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Models\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\DAL\\Models\\PhoneNumber.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Models\\PhoneNumber.cs",
+              "RelativeToolTip": "WebServicesAPI\\DAL\\Models\\PhoneNumber.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:58:37.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "WebServicesAPI\\DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:56:05.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebServicesAPI\\DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:06:21.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebServicesAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:27:45.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Services\\IUserServices.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\Services\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Services\\IUserServices.cs",
+              "RelativeToolTip": "WebServicesAPI\\Services\\IUserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:21:02.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\DAL\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "WebServicesAPI\\DAL\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:13:20.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DTO\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\DTO\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DTO\\UpdateUserRequest.cs",
+              "RelativeToolTip": "WebServicesAPI\\DTO\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:39:54.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Program.cs",
+              "RelativeToolTip": "WebServicesAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:06:23.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WebServicesAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:09:09.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhoneNumberDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DTO\\PhoneNumberDTO.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\DTO\\PhoneNumberDTO.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DTO\\PhoneNumberDTO.cs",
+              "RelativeToolTip": "WebServicesAPI\\DTO\\PhoneNumberDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:34:43.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddressDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DTO\\AddressDTO.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\DTO\\AddressDTO.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DTO\\AddressDTO.cs",
+              "RelativeToolTip": "WebServicesAPI\\DTO\\AddressDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:33:40.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DTO\\AddUserRequest.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\DTO\\AddUserRequest.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DTO\\AddUserRequest.cs",
+              "RelativeToolTip": "WebServicesAPI\\DTO\\AddUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:38:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\DAL\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\DAL\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "WebServicesAPI\\DAL\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:12:56.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240804081139_init.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Migrations\\20240804081139_init.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\Migrations\\20240804081139_init.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Migrations\\20240804081139_init.cs",
+              "RelativeToolTip": "WebServicesAPI\\Migrations\\20240804081139_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:18:41.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240804081139_init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Migrations\\20240804081139_init.Designer.cs",
+              "RelativeDocumentMoniker": "WebServicesAPI\\Migrations\\20240804081139_init.Designer.cs",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\Migrations\\20240804081139_init.Designer.cs",
+              "RelativeToolTip": "WebServicesAPI\\Migrations\\20240804081139_init.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:18:46.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebServicesAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\vandu\\source\\repos\\WebServicesAPI\\WebServicesAPI\\appsettings.json",
+              "RelativeToolTip": "WebServicesAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T08:07:39.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
